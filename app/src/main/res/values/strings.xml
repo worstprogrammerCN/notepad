@@ -1,0 +1,12 @@
+<resources>
+    <string name="database_path">app.db</string>
+    <string name="app_name">Notepad</string>
+    <string name="action_settings">Settings</string>
+    <string name="str">Settings</string>
+    <string name="create">新建</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>
